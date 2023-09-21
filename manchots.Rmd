@@ -1,5 +1,5 @@
-title: "Etude sur les manchots"
-author: "MP Etienne et  toute la spé data science"
+title: "The Palmer penguins study"
+author: "Top Tier teams"
 date: "9/2/2023"
 output: html_document 
 ---
