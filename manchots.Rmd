@@ -1,11 +1,6 @@
-title: "Etude sur les manchots"
-<<<<<<< HEAD
-author: "Raphaëlle Lebailly"
+title: "The Palmer penguins study"
+author: "Chloé Pérou, Raphaelle Lebailly, Laura Martinez Anton"
 date: "9/2/2023"
-=======
-author: "MP Etienne et  toute la spé data science"
-date: "9/2/2033"
->>>>>>> cb582d8274c8823d4452311324e89b41c5a43c91
 output: html_document 
 ---
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
