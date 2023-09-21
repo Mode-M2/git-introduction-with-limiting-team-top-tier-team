@@ -1,5 +1,5 @@
 title: "The Palmer penguins study"
-author: "Top Tier Teams!!!"
+author: "Chloé Pérou, Raphaelle Lebailly, Laura Martinez Anton"
 date: "9/2/2023"
 output: html_document 
 ---
